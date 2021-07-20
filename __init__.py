@@ -12,15 +12,15 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "Test Endpoint no download URL",
+    "name": "Test Endpoint Invalid Schema",
     "author": "BD",
     "description": "",
     "blender": (2, 80, 0),
     "version": (0, 0, 0),
     "location": "",
     "warning": "",
-    "tracker_url": "https://github.com/BD-Review/test-endpoint_data_no_download_url/issues",
-    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-endpoint_data_no_download_url/main/endpoint.json",
+    "tracker_url": "https://github.com/BD-Review/test-endpoint_invalid_schema/issues",
+    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-endpoint_invalid_schema/main/endpoint.json",
     "category": "Generic"
 }
 
