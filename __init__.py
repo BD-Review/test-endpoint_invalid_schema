@@ -19,6 +19,7 @@ bl_info = {
     "version": (0, 0, 0),
     "location": "",
     "warning": "",
+    "tracker_url": "https://github.com/BD-Review/test-endpoint_data_no_download_url/issues",
     "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-endpoint_data_no_download_url/main/endpoint.json",
     "category": "Generic"
 }
