@@ -1,8 +1,18 @@
 {
-    "version": [
-        0,
-        0,
-        0
-    ],
-    "automatic_download": true
+    "schema_version": "super-addon-manager-version-info-1.0.0",
+    "versions": [
+        {
+            "version": [
+                0,
+                0,
+                0
+            ],
+            "allow_automatic_download": true,
+            "minimum_blender_version": [
+                        2,
+                        83,
+                        0
+                    ]
+        }
+    ]
 }
